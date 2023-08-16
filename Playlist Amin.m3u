@@ -1,0 +1,268 @@
+AMIN TV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/MNCTV_MNC-Group.svg" group-title="AMIN TV", MNCTV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/12/84162435.jpg" group-title="AMIN TV", GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="AMIN TV", INEWS
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4urMukgFxOsmKR06xskG4LzwSbtbwosJ0oQ&usqp=CAU" group-title="AMIN TV", RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="AMIN TV", TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="AMIN TV", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="AMIN TV", METRO TV
+http://210.210.155.37/uq2663/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="AMIN TV", KOMPAS TV
+http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="AMIN TV", BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" group-title="AMIN TV", TV ONE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683101&extension=ts&play_token=YKA6nqPsPe
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="AMIN TV", SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="AMIN TV", INDOSIAR
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="AMIN TV", ANTV
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="AMIN TV", NET
+http://210.210.155.37/uq2663/h/h06/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="AMIN TV", RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" group-title="AMIN TV", CNBC Indonesia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165062
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2015/10/22/04ebea0b-b41b-4ece-b7e2-b670ae73cc6d_11.jpg" group-title="AMIN TV", CNN Indonesia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162137
+
+#EXTINF:-1 tvg-logo="https://makkahlive.net/images/makkah-live-low-resolution-logo-color-on-transparent-background.png" group-title="AMIN TV",MAKKAH LIVE
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71CywdrFaZL.png" group-title="AMIN TV",MADINAH LIVE
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rvYDbdj/20221224-125807.png" group-title="AMIN TV", Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="AMIN TV", MOJI
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg" group-title="AMIN TV", TVRI
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="AMIN TV", RODJA TV
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="AMIN TV", EGG NETWORK TV
+http://210.210.155.37/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="AMIN TV", MY KIDZ
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg" group-title="AMIN TV", KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg" group-title="AMIN TV", K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="AMIN TV", CCM
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg" group-title="AMIN TV", THRILL
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="AMIN TV", CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="AMIN TV", MY CINEMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="AMIN TV", MY FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg" group-title="AMIN TV", FIGHT SPORTS
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg" group-title="AMIN TV", MOTORVISION
+http://210.210.155.37/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/9wbsp34au6cz/3MahTdkrffTFVnuawblwdI/ea27b13f6bd84eaab03f5f298bce672d/RBTV_Logo_single_pix_hor_RGB.png" group-title="AMIN TV", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="AMIN TV", TVRI SPORT
+http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="AMIN TV", Animax
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165081
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Joq6-b6TISo/WAWGGLvFp8I/AAAAAAAAfxA/iDy1SN8pc-gng0AxNDiZsDUEbHuBW12-QCLcB/s1600/aniplus-channel-tv-logo.png" group-title="AMIN TV", AniPlus
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298504
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20181123/aj/kisspng-axn-television-show-reality-television-mystery-cha-get-apk-entertainment-axn-apps-5bf88649b4f107.1722891915430139617411.jpg" group-title="AMIN TV", AXN
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="AMIN TV", Bioskop Indonesia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264801
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2014/10/14/4/155423_cinemaxx.jpg" group-title="AMIN TV", Cinemax
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="AMIN TV", Discovery Asia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197968
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/360-3607895_discovery-world-channel-logo.png" group-title="AMIN TV", Discovery World
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157597
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="AMIN TV", NATIONAL GEOGRAFHIC
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683086&extension=ts&play_token=q2FjgGpPKE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/220px-History_%282021%29.svg.png" group-title="AMIN TV", HISTORY
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683091&extension=ts&play_token=OAvJNl1UnC
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-hSjgR2X3558/W7Q7SFzKEbI/AAAAAAAAmVg/UZn5xowoPlgTenyfZjxsUJuve5z3wuzGQCLcBGAs/s1600/galaxy-premium-tv-channel-logo.jpg" group-title="AMIN TV", Galaxy Premium
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264774
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="AMIN TV", HBO
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="AMIN TV", HBO Family
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="AMIN TV", HBO Hits
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
+
+#EXTINF:-1 tvg-logo="https://ia904503.us.archive.org/32/items/HboComedy/hbo%20comedy.png" group-title="AMIN TV", HBO Comedy
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151864
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_427.png" group-title="AMIN TV", SpoTV
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298570
+
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20HD-FirstMedia-Chl-330.jpg" group-title="AMIN TV", SpoTV 2
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298571
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/uu/usee-prime-id.png" group-title="AMIN TV", Usee Prime
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162524
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1348927602115792897/pu/img/mhnuzBgWKXvq7Tyd.jpg" group-title="AMIN TV", Vision Prime
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197958
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png" group-title="AMIN TV", FilmBox Premium
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1705
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e2b44c8908559da092950702153566ee.png" group-title="AMIN TV", DISNEY HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/5356
+
+AMIN TV LIGA INGGRIS
+
+#EXTINF:-1 tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="AMIN TV LIGA INGGRIS", ASTRO SUPERSPORT 3
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571247&extension=ts&play_token=YQu2x70UI7
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="AMIN TV LIGA INGGRIS", HUB SPORT PREMIER 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:4b:61:87&stream=1350557_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="AMIN TV LIGA INGGRIS", TRUE SPORT PREMIER 1
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="AMIN TV LIGA INGGRIS", TRUE SPORT PREMIER 2
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115508_&extension=ts
+
+#EXTINF:-1 tvg-logo="http://magott.net:80/images/37fb247fd923976c563d60dae9112c3b.png" group-title="AMIN TV LIGA INGGRIS", BeINSport PREMIUM 1 Primier
+http://magott.net:80/okota380/RvPBwTrjvRPM/45
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endrisusilo/endro/main/Setanta-logo.jpg" group-title="AMIN TV LIGA INGGRIS", SENTANTA TV
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="AMIN TV LIGA INGGRIS", MY: Astro SuperSport
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="AMIN TV LIGA INGGRIS", MY: Astro SuperSport 2
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="AMIN TV LIGA INGGRIS", MY: Astro SuperSport 3
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="AMIN TV LIGA INGGRIS", IN: STAR SPORTS SELECT 1 (4K).
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/98867.ts
+
+AMIN TV AMIN TV LIGA INDONESIA
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="AMIN TV AMIN TV LIGA INDONESIA", Indosiar
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="AMIN TV AMIN TV LIGA INDONESIA", Indosiar
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="AMIN TV AMIN TV LIGA INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
+https://av-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
+#EXTINF:-1 group-title="AMIN TV AMIN TV LIGA INDONESIA" tvg-id="MNCSports3.id" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
+#EXTINF:-1 group-title="AMIN TV AMIN TV LIGA INDONESIA" tvg-id="MNCSports4.id" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/SS3.png" group-title="AMIN TV AMIN TV LIGA INDONESIA", SPORTSTAR 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+
+AMIN TV MOVISTAR GRUP
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/aa90afdf229de2f0257dd0fae2cb8f38.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR LALIGA FHD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1924
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/a51408c106b854002cbe634c851738e3.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR COMEDIA FHD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1927
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/630ddb1ff05322a4b02b74ccf22f816e.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR DRAMA FHD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1929
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR FORMULA 1 FHD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1931
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/3bc7bd0c0d7c674814b95854fe822497.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR F1 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3612
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bff39caa6c38314464ef754ca4a5e2.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR LIGA DE CAMPEONES FHD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/1933
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR LIGA CAMPEONES HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3615
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/b696dcc26d730cf2087f3b2bdd50021d.png" group-title="AMIN TV MOVISTAR GRUP", MOVISTAR MOTO GP HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
+
+AMIN TV KIDS
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="AMIN TV KIDS", MY KIDZ
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 group-title="AMIN TV KIDS" tvg-logo="https://github.com/endrisusilo/endro/blob/main/cartoon%20network.png?raw=true", CARTOON NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:-1 group-title="AMIN TV KIDS" tvg-id="biznetkids.id" tvg-logo="https://i.imgur.com/J5QNqJ0.png",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
+
+#EXTINF:-1 group-title="AMIN TV KIDS" tvg-logo="https://github.com/endrisusilo/endro/blob/main/lego%20channel.jpg?raw=true", LEGO CHANNEL
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 group-title="AMIN TV KIDS" tvg-logo="https://github.com/endrisusilo/endro/blob/main/lego%20toons.jpg?raw=true", LEGO TOONS
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+ 
