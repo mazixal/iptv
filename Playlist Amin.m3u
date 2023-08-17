@@ -81,6 +81,9 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png" group-title="AMIN TV LOKAL",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="AMIN TV LOKAL",TATV Solo
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1200px-BTV_%28Indonesia%29_logo.svg.png" group-title="AMIN TV LOKAL",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
 
@@ -133,6 +136,30 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="AMIN TV PENGETAUAN",CRIMEINVESTIGATION
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://apprecs.org/gp/images/app-icons/300/8e/com.rtmtv.powernation.jpg" group-title="AMIN TV PENGETAUAN", Powernation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/a249be578217437d/9991723/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.caid=PowerNation&ads.csid=zeus_eu_powernation_ssai&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=289&ads.rakuten_streaming_id=db3a1466-a037-43ef-8105-482c4b21d0a9&ads.rakuten_user_type=visitor&ads.xumo_channelId=9991723&ads.xumo_contentId=224&ads.xumo_contentName=PowerNation&ads.xumo_ifa=9545f581-7373-4bce-8a6f-29b52118cc80&ads.xumo_ifaType=ppid&ads.xumo_providerId=224&ads.xumo_providerName=PowerNation
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/fr/smart-tv/samsung-tv-plus/all-channels/samsung_1000x1000_circle_green.png?$296_164_PNG" group-title="AMIN TV PENGETAUAN", Aventurama TV
+https://alchimie-explorebytvplayer-uk-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-explorebytvplayer-uk-rakuten/CDN/master.m3u8?ads_amagi_channel=757&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=3501&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=2aef88d4-7241-4454-ad53-45627df1a574&ads_user_type=visitor
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png" group-title="AMIN TV PENGETAUAN", History Hit Channel
+https://lds-timeline-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-timeline-rakuten/CDN/master.m3u8?ads_amagi_channel=731&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=2916&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=9953e6a1-6357-4460-ad7c-2e28d170908c&ads_user_type=visitor
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23007/beautiful-planet/poster_20211215_193358.png" group-title="AMIN TV PENGETAUAN", Beautiful Planet
+https://c7b36bed898b47869a7b08b429017613.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_BeautifulPlanet/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4137&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=6c9b07c8-53e6-4a8a-8ca8-c823d57c9197&ads.user_type=visitor&ads.wurl_channel=1166
+
+#EXTINF:0 group-title="AMIN TV PENGETAUAN" tvg-id="409" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EWXTFK4KN55UDR/9265/index.m3u8
+
+#EXTINF:0 group-title="AMIN TV PENGETAUAN" tvg-id="2485" tvg-logo="http://epg.it999.ru/img/2485.png" tvg-rec="7",DTX HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EWXTFK4KN55UDR/2006/index.m3u8
+
+#EXTINF:0 group-title="AMIN TV PENGETAUAN" tvg-id="223" tvg-logo="http://epg.it999.ru/img/223.png" tvg-rec="3",National Geographic Wild
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EWXTFK4KN55UDR/9264/index.m3u8
+
+#EXTINF:0 group-title="AMIN TV PENGETAUAN" tvg-id="7623" tvg-logo="http://epg.it999.ru/img/7623.png" tvg-rec="0",Big Planet
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EWXTFK4KN55UDR/14027/index.m3u8
 
 
 
@@ -297,7 +324,10 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7I0IVPaFJIvzfaaELJIJaydTyiSTD9PNPQg&usqp=CAU" group-title="AMIN TV MOVISTAR GRUP",MOTOR RACING
-https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8?ads:amznbrmid=&ads:amznregion=&ads:amznslots=&ads:app_bundle=com.rakuten.tv&ads:content_classification=7&ads:device_type=web&ads:device_year=1970&ads:funke_channel_id=RAKB0032&ads:language=eng&ads:market=uk&ads:player_height=1080&ads:player_width=1920&ads:pod_type=playerpage_midroll&ads:rtv_content_id=4252&ads:streaming_id=2a5b5909-cc0f-4f09-968f-ea009a95d6a7&ads:tcf=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads:user_type=visitor&country=gb&optout=0&uid=9545f581-7373-4bce-8a6f-29b52118cc80&vendor=rakuten
+
+#EXTINF:-1 tvg-logo="https://www.cyclenews.com/wp-content/uploads/2021/02/MAVTV-Motorsports_Network-logo.png" group-title="AMIN TV MOVISTAR GRUP", MAVTV Motorsports Network
+https://1ed7111548254b7080611444388d3b50.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_MAVTVMotorSportsNetwork/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=109&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=9b4aea2b-6ba2-4acc-8e85-b432db578f5e&ads.user_type=visitor&ads.wurl_channel=611
 
 AMIN TV KIDS
 
@@ -324,6 +354,9 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="AMIN TV KIDS",Majid TV (1080p)
 https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="AMIN TV KIDS" tvg-logo="https://i.postimg.cc/YCpnnmC3/kidzz.png" ,Pluto TV Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 AMIN TV SPORTS
 
@@ -356,3 +389,28 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="AMIN TV SPORTS", Unifi Sports 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 tvg-logo="https://www.edgesports.eu/assets/images/layout/es_logo.png" group-title="AMIN TV SPORTS", EDGE Sports
+https://edgesports-row-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-edgesports-rakuten/CDN/master.m3u8?ads_amagi_channel=716&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=2629&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=c3834de4-3c02-4ae8-acfc-62bc131af94d&ads_user_type=visitor
+
+#EXTINF:-1 tvg-logo="https://www.horizon-sport.co.uk/assets/images/www.horizon37.co.uk-454x160.png" group-title="AMIN TV SPORTS", Horizon Sports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8?ads:amznbrmid=&ads:amznregion=&ads:amznslots=&ads:app_bundle=com.rakuten.tv&ads:content_classification=7&ads:device_type=web&ads:device_year=1970&ads:funke_channel_id=RAKB0021&ads:language=eng&ads:market=uk&ads:player_height=1080&ads:player_width=1920&ads:pod_type=playerpage_midroll&ads:rtv_content_id=4260&ads:streaming_id=426da52e-9593-4cc1-9d31-4ca082cc0049&ads:tcf=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads:user_type=visitor&country=gb&optout=0&uid=9545f581-7373-4bce-8a6f-29b52118cc80&vendor=rakuten
+
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/World-of-Freesports.jpg" group-title="AMIN TV SPORTS", World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?ads_amagi_channel=837&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=4372&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=784da47c-4f2e-4dce-9e46-ea1390b61902&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="AMIN TV SPORTS",RealMadrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="AMIN TV SPORTS",MU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AMIN TV SPORTS",Usee Sport 1
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298577
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AMIN TV SPORTS",Usee Sport 2
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298578
+
+#EXTINF:-1 group-title="AMIN TV SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",Bein Sports Xtra
+https://bit.ly/3t7HM45
