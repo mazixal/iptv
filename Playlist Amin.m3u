@@ -108,6 +108,9 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165081
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Joq6-b6TISo/WAWGGLvFp8I/AAAAAAAAfxA/iDy1SN8pc-gng0AxNDiZsDUEbHuBW12-QCLcB/s1600/aniplus-channel-tv-logo.png" group-title="AMIN TV LOKAL", AniPlus
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298504
 
+#EXTINF:-1 tvg-id="FailArmy.us" group-title="AMIN TV LOKAL",FailArmy
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+
 AMIN TV PENGETAUAN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/2560px-Discovery_Asia_logo.svg.png" group-title="AMIN TV PENGETAUAN", Discovery Asia
@@ -146,7 +149,7 @@ https://alchimie-explorebytvplayer-uk-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png" group-title="AMIN TV PENGETAUAN", History Hit Channel
 https://lds-timeline-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-timeline-rakuten/CDN/master.m3u8?ads_amagi_channel=731&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads_market=uk&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads_rtv_content_id=2916&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=9953e6a1-6357-4460-ad7c-2e28d170908c&ads_user_type=visitor
 
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-62c8adc2cde2ac9d045b350e" tvg-logo="https://a.jsrdn.com/hls/23007/beautiful-planet/poster_20211215_193358.png" group-title="AMIN TV PENGETAUAN", Beautiful Planet
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23007/beautiful-planet/poster_20211215_193358.png" group-title="AMIN TV PENGETAUAN", Beautiful Planet
 https://c7b36bed898b47869a7b08b429017613.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_BeautifulPlanet/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4137&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=6c9b07c8-53e6-4a8a-8ca8-c823d57c9197&ads.user_type=visitor&ads.wurl_channel=1166
 
 #EXTINF:0 group-title="AMIN TV PENGETAUAN" tvg-id="409" tvg-logo="http://epg.it999.ru/img/409.png" tvg-rec="3",Discovery Science
@@ -161,15 +164,19 @@ http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EWXTFK4KN55UDR/9264/index
 #EXTINF:0 group-title="AMIN TV PENGETAUAN" tvg-id="7623" tvg-logo="http://epg.it999.ru/img/7623.png" tvg-rec="0",Big Planet
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/EWXTFK4KN55UDR/14027/index.m3u8
 
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" group-title="AMIN TV PENGETAUAN",Bloomberg Quicktake
+https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
+
+
 
 
 AMIN TV RELIGI
 
 #EXTINF:-1 tvg-logo="https://makkahlive.net/images/makkah-live-low-resolution-logo-color-on-transparent-background.png" group-title="AMIN TV RELIGI",MAKKAH LIVE
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://edge.taghtia.com/sa/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71CywdrFaZL.png" group-title="AMIN TV RELIGI",MADINAH LIVE
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://edge.taghtia.com/sa/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rvYDbdj/20221224-125807.png" group-title="AMIN TV RELIGI", Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -179,6 +186,9 @@ http://210.210.155.37/qwr9ew/s/s14/index.m3u8
 
 #EXTINF:-1 tvg-id="FatwaTV.id" tvg-logo="https://i.imgur.com/FcJ6VMT.png" group-title="AMIN TV RELIGI",Fatwa TV HD
 https://ythls.onrender.com/channel/UCWcErqFw28UlHluawiWLO2g.m3u8
+
+#EXTINF:-1 tvg-id="AhlAlquranTV.sa" group-title="AMIN TV RELIGI",Ahl-Alquran TV
+https://www.ahlualquran.tv:25463/live/ssadtv/live-tv/1.m3u8
 
 AMIN TV MOVIES
 
@@ -235,6 +245,13 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="dunia sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="AMIN TV MOVIES",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" group-title="AMIN TV MOVIES",MovieSphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" group-title="AMIN TV MOVIES",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
 
 AMIN TV LIGA INGGRIS
 
@@ -414,3 +431,6 @@ http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/298578
 
 #EXTINF:-1 group-title="AMIN TV SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",Bein Sports Xtra
 https://bit.ly/3t7HM45
+
+#EXTINF:-1 tvg-id="EDGEsport.uk" group-title="AMIN TV SPORTS",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
